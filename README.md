@@ -1,4 +1,4 @@
-Materials to prepare yourself for AZ104 certification</br>
+## Materials to prepare yourself for AZ104 certification</br>
 Useful links:</br>
 [AZ104 Learning Course](https://learn.microsoft.com/en-us/training/courses/az-104t00)</br>
 [Azure Verified Modules](https://azure.github.io/Azure-Verified-Modules)</br>
