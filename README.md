@@ -1,4 +1,4 @@
-Materials and code from AZ104 training</br>
+## Materials to prepare yourself for AZ104 certification</br>
 Useful links:</br>
 [AZ104 Learning Course](https://learn.microsoft.com/en-us/training/courses/az-104t00)</br>
 [AZ104 Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)</br>
